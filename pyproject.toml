@@ -27,6 +27,7 @@ langchain = "^0.3.26"
 langchain-ollama = "^0.3.3"
 umap-learn = "^0.5.7"
 plotly = "^6.2.0"
+openai = "^2.24.0"
 
 
 [build-system]
